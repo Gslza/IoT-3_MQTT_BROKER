@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Kendali IoT Multi-Broker",
+  "description": "Dashboard IoT modern dengan integrasi Three.js, Multi-Broker MQTT, perintah suara (Web Speech API), dan Firebase Authentication.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
